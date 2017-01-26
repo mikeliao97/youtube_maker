@@ -1,0 +1,98 @@
+#nav-bar {
+  /* background-color: blue; */
+  width: 100%;
+  height: 90px;
+  margin-top:-20px;
+  position: relative;
+}
+
+
+#video-player {
+  background-color: red;
+  width: 60%;
+  height: 500px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#video-sidebar {
+  background-color: purple;
+  width: 35%;
+  height: 730px;
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#video-description {
+  background-color: orange;
+  width: 60%;
+  height: 220px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+li {
+  margin-top: 45px;
+  display: inline-block;
+  float: left;
+  /* display: inline-block; */
+  /* position: absolute; */
+  /* top: 50%; */
+  /* height: 10ems; */
+  /* margin-top: -5ems; */
+  /* float: left; */
+}
+
+
+
+#youtube_logo {
+  height: 80px;
+  width: 100px;
+  margin-top: -33px;
+}
+
+#search_bar {
+  height: 30px;
+  width: 400px;
+  margin-top: -30px;
+  margin-left: 100px;
+  border: 2px solid #dadada;
+  border-radius: 7px;
+
+}
+
+#search_button {
+  height: 40px;
+  width: 50px;
+  margin-top: -10px;
+
+}
+
+#profile_icon {
+  float: right;
+  height: 40px;
+  width: 50px;
+  margin-right: 10px;
+}
+/*
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+*/

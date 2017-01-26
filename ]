@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Youtube Player</title>
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <div id="nav-bar"> 
+      <ul>
+    </div>
+
+
+    <div id="video-player">
+    </div>
+
+    <div id="video-sidebar">
+    </div>
+
+    <div id="video-description">
+      <div>
+  </body>
+</html>
